@@ -1,0 +1,20 @@
+{
+  "name": "ghasemian-number-utils",
+  "version": "1.0.2",
+  "description": "https://github.com/ToxicGhost2023 follow me ,تبدیل اعداد انگلیسی به فارسی و جداسازی سه‌رقمی اعداد ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "persian",
+    "digits",
+    "format",
+    "fa",
+    "iran",
+    "number"
+  ],
+  "author": "ToxicGhost",
+  "license": "MIT",
+  "type": "commonjs"
+}
